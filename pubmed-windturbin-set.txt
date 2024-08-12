@@ -1,0 +1,508 @@
+PMID- 33716375
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220218
+IS  - 0268-3768 (Print)
+IS  - 1433-3015 (Electronic)
+IS  - 0268-3768 (Linking)
+VI  - 114
+IP  - 1-2
+DP  - 2021
+TI  - Demonstration and evaluation of a digital twin-based virtual factory.
+PG  - 185-203
+LID - 10.1007/s00170-021-06825-w [doi]
+AB  - Smart manufacturing, tailored by the 4th industrial revolution and forces like 
+      innovation, competition, and changing demands, lies behind the concurrent 
+      evolution (also known as co-evolution) of products, processes and production 
+      systems. Manufacturing companies need to adapt to ever-changing environments by 
+      simultaneously reforming and regenerating their product, process, and system 
+      models as well as goals and strategies to stay competitive. However, the 
+      ever-increasing complexity and ever-shortening lifecycles of product, process and 
+      system domains challenge manufacturing organization's conventional approaches to 
+      analysing and formalizing models and processes as well as management, maintenance 
+      and simulation of product and system life cycles. The digital twin-based virtual 
+      factory (VF) concept, as an integrated simulation model of a factory including 
+      its subsystems, is promising for supporting manufacturing organizations in 
+      adapting to dynamic and complex environments. In this paper, we present the 
+      demonstration and evaluation of previously introduced digital twin-based VF 
+      concept to support modelling, simulation and evaluation of complex manufacturing 
+      systems while employing multi-user collaborative virtual reality (VR) 
+      learning/training scenarios. The concept is demonstrated and evaluated using two 
+      different wind turbine manufacturing cases, including a wind blade manufacturing 
+      plant and a nacelle assembly line. Thirteen industry experts who have diverse 
+      backgrounds and expertise were interviewed after their participation in a 
+      demonstration. We present the experts' discussions and arguments to evaluate the 
+      DT-based VF concept based on four dimensions, namely, dynamic, open, cognitive, 
+      and holistic systems. The semi-structured conversational interview results show 
+      that the DT-based VF stands out by having the potential to support concurrent 
+      engineering by virtual collaboration. Moreover, DT-based VF is promising for 
+      decreasing physical builds and saving time by virtual prototyping (VP).
+CI  - © The Author(s), under exclusive licence to Springer-Verlag London Ltd. part of 
+      Springer Nature 2021.
+FAU - Yildiz, Emre
+AU  - Yildiz E
+AUID- ORCID: 0000-0003-3002-0873
+AD  - Center for Industrial Production, Aalborg University, Fibigerstraede 16, 9220 
+      Aalborg, Denmark. GRID: grid.5117.2. ISNI: 0000 0001 0742 471X
+FAU - Møller, Charles
+AU  - Møller C
+AUID- ORCID: 0000-0003-0251-3419
+AD  - Center for Industrial Production, Aalborg University, Fibigerstraede 16, 9220 
+      Aalborg, Denmark. GRID: grid.5117.2. ISNI: 0000 0001 0742 471X
+FAU - Bilberg, Arne
+AU  - Bilberg A
+AUID- ORCID: 0000-0002-4780-8459
+AD  - Mads Clausen Institute, University of Southern Denmark, 6400 Sønderborg, Denmark. 
+      GRID: grid.10825.3e. ISNI: 0000 0001 0728 0170
+LA  - eng
+PT  - Journal Article
+DEP - 20210310
+PL  - England
+TA  - Int J Adv Manuf Technol
+JT  - The International journal, advanced manufacturing technology
+JID - 101533725
+PMC - PMC7943255
+OTO - NOTNLM
+OT  - Digital twin
+OT  - Industry 4.0
+OT  - Manufacturing planning
+OT  - Optimisation
+OT  - Simulation
+OT  - Virtual factory
+OT  - Virtual manufacturing
+OT  - Virtual reality
+COIS- Conflict of interestNo potential conflict of interest was reported by the authors 
+      and the stakeholders.
+EDAT- 2021/03/16 06:00
+MHDA- 2021/03/16 06:01
+PMCR- 2021/03/09
+CRDT- 2021/03/15 06:48
+PHST- 2020/10/21 00:00 [received]
+PHST- 2021/02/15 00:00 [accepted]
+PHST- 2021/03/16 06:00 [pubmed]
+PHST- 2021/03/16 06:01 [medline]
+PHST- 2021/03/15 06:48 [entrez]
+PHST- 2021/03/09 00:00 [pmc-release]
+AID - 6825 [pii]
+AID - 10.1007/s00170-021-06825-w [doi]
+PST - ppublish
+SO  - Int J Adv Manuf Technol. 2021;114(1-2):185-203. doi: 10.1007/s00170-021-06825-w. 
+      Epub 2021 Mar 10.
+
+PMID- 38693170
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240504
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2024 May 1
+TI  - 5G-enabled, battery-less smart skins for self-monitoring megastructures and 
+      digital twin applications.
+PG  - 10002
+LID - 10.1038/s41598-024-58257-7 [doi]
+LID - 10002
+AB  - With the current development of the 5G infrastructure, there presents a unique 
+      opportunity for the deployment of battery-less mmWave reflect-array-based 
+      sensors. These fully-passive devices benefit from having a larger detectability 
+      than alternative battery-less solutions to create self-monitoring megastructures. 
+      The presented 'smart' skin sensor uses a Van-Atta array design enabling 
+      ubiquitous local strain monitoring for the structural health monitoring of 
+      composite materials featuring wide interrogation angles. Proof-of-concept 
+      prototypes of these 'smart' skin millimeter-wave identification tags, that can be 
+      mounted on or embedded within common materials used in wind turbine blades, 
+      present a highly-detectable radar cross-section of - 33.75 dBsm and - 35.00 dBsm 
+      for mounted and embedded sensors respectively. Both sensors display a minimum 
+      resolution of 202 μ -strain even at 40 ∘ off-axis enabling interrogation of the 
+      fully-passive sensor at oblique angles of incidence. When interrogated from a 
+      proof-of-concept reader, the fully-passive, sticker-like mmID enables local 
+      strain monitoring of both carbon fiber and glass fiber composite materials. The 
+      sensors display a repeatable and recoverable response over 0-3000 μ -strain and a 
+      sensitivity of 7.55 kHz/ μ -strain and 7.92 kHz/ μ -strain for mounted and 
+      embedded sensors, respectively. Thus, the presented 5G-enabled battery-less 
+      sensor presents massive potential for the development of ubiquitous Digital 
+      Twinning of composite materials in future smart cities architectures.
+CI  - © 2024. The Author(s).
+FAU - Lynch, Charles
+AU  - Lynch C
+AD  - Georgia Institute of Technology, School of ECE, Atlanta, GA, 30308, USA. 
+      clynch19@gatech.edu.
+FAU - Adeyeye, Ajibayo
+AU  - Adeyeye A
+AD  - Georgia Institute of Technology, School of ECE, Atlanta, GA, 30308, USA.
+FAU - Abbara, El Mehdi
+AU  - Abbara EM
+AD  - Binghamton University, Binghamton, NY, 13902, USA.
+FAU - Umar, Ashraf
+AU  - Umar A
+AD  - Binghamton University, Binghamton, NY, 13902, USA.
+FAU - Alhendi, Mohammed
+AU  - Alhendi M
+AD  - Binghamton University, Binghamton, NY, 13902, USA.
+FAU - Minnella, Chris
+AU  - Minnella C
+AD  - Sikorsky, a Lockheed Martin Company, Rochester, NY, 14623, USA.
+FAU - Iannotti, Joseph
+AU  - Iannotti J
+AD  - GE Global Research, Niskayuna, NY, 12309, USA.
+FAU - Stoffel, Nancy
+AU  - Stoffel N
+AD  - GE Global Research, Niskayuna, NY, 12309, USA.
+FAU - Poliks, Mark
+AU  - Poliks M
+AD  - Binghamton University, Binghamton, NY, 13902, USA.
+FAU - Tentzeris, Manos M
+AU  - Tentzeris MM
+AD  - Georgia Institute of Technology, School of ECE, Atlanta, GA, 30308, USA.
+LA  - eng
+GR  - FA8650-15-2-5401/NextFlex/
+PT  - Journal Article
+DEP - 20240501
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+PMC - PMC11063155
+COIS- The authors declare no competing interests.
+EDAT- 2024/05/02 00:49
+MHDA- 2024/05/02 00:50
+PMCR- 2024/05/01
+CRDT- 2024/05/01 23:18
+PHST- 2023/11/22 00:00 [received]
+PHST- 2024/03/27 00:00 [accepted]
+PHST- 2024/05/02 00:50 [medline]
+PHST- 2024/05/02 00:49 [pubmed]
+PHST- 2024/05/01 23:18 [entrez]
+PHST- 2024/05/01 00:00 [pmc-release]
+AID - 10.1038/s41598-024-58257-7 [pii]
+AID - 58257 [pii]
+AID - 10.1038/s41598-024-58257-7 [doi]
+PST - epublish
+SO  - Sci Rep. 2024 May 1;14(1):10002. doi: 10.1038/s41598-024-58257-7.
+
+PMID- 38676279
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240429
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 8
+DP  - 2024 Apr 22
+TI  - Towards a Distributed Digital Twin Framework for Predictive Maintenance in 
+      Industrial Internet of Things (IIoT).
+LID - 10.3390/s24082663 [doi]
+LID - 2663
+AB  - This study uses a wind turbine case study as a subdomain of Industrial Internet 
+      of Things (IIoT) to showcase an architecture for implementing a distributed 
+      digital twin in which all important aspects of a predictive maintenance solution 
+      in a DT use a fog computing paradigm, and the typical predictive maintenance DT 
+      is improved to offer better asset utilization and management through real-time 
+      condition monitoring, predictive analytics, and health management of selected 
+      components of wind turbines in a wind farm. Digital twin (DT) is a technology 
+      that sits at the intersection of Internet of Things, Cloud Computing, and 
+      Software Engineering to provide a suitable tool for replicating physical objects 
+      in the digital space. This can facilitate the implementation of asset management 
+      in manufacturing systems through predictive maintenance solutions leveraged by 
+      machine learning (ML). With DTs, a solution architecture can easily use data and 
+      software to implement asset management solutions such as condition monitoring and 
+      predictive maintenance using acquired sensor data from physical objects and 
+      computing capabilities in the digital space. While DT offers a good solution, it 
+      is an emerging technology that could be improved with better standards, 
+      architectural framework, and implementation methodologies. Researchers in both 
+      academia and industry have showcased DT implementations with different levels of 
+      success. However, DTs remain limited in standards and architectures that offer 
+      efficient predictive maintenance solutions with real-time sensor data and 
+      intelligent DT capabilities. An appropriate feedback mechanism is also needed to 
+      improve asset management operations.
+FAU - Abdullahi, Ibrahim
+AU  - Abdullahi I
+AUID- ORCID: 0000-0002-5508-6804
+AD  - School of Aerospace, Transport and Manufacturing (SATM), Cranfield University, 
+      Bedford MK43 0AL, UK.
+FAU - Longo, Stefano
+AU  - Longo S
+AD  - School of Aerospace, Transport and Manufacturing (SATM), Cranfield University, 
+      Bedford MK43 0AL, UK.
+FAU - Samie, Mohammad
+AU  - Samie M
+AD  - School of Aerospace, Transport and Manufacturing (SATM), Cranfield University, 
+      Bedford MK43 0AL, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20240422
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+PMC - PMC11054335
+OTO - NOTNLM
+OT  - digital twins
+OT  - fog computing
+OT  - machine learning
+OT  - predictive maintenance
+OT  - wind turbines
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/04/27 09:54
+MHDA- 2024/04/27 09:55
+PMCR- 2024/04/22
+CRDT- 2024/04/27 01:27
+PHST- 2024/02/24 00:00 [received]
+PHST- 2024/04/09 00:00 [revised]
+PHST- 2024/04/17 00:00 [accepted]
+PHST- 2024/04/27 09:55 [medline]
+PHST- 2024/04/27 09:54 [pubmed]
+PHST- 2024/04/27 01:27 [entrez]
+PHST- 2024/04/22 00:00 [pmc-release]
+AID - s24082663 [pii]
+AID - sensors-24-02663 [pii]
+AID - 10.3390/s24082663 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Apr 22;24(8):2663. doi: 10.3390/s24082663.
+
+PMID- 37430495
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230711
+LR  - 20230718
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 23
+IP  - 10
+DP  - 2023 May 9
+TI  - Towards Digital Twins of the Oceans: The Potential of Machine Learning for 
+      Monitoring the Impacts of Offshore Wind Farms on Marine Environments.
+LID - 10.3390/s23104581 [doi]
+LID - 4581
+AB  - With an increasing number of offshore wind farms, monitoring and evaluating the 
+      effects of the wind turbines on the marine environment have become important 
+      tasks. Here we conducted a feasibility study with the focus on monitoring these 
+      effects by utilizing different machine learning methods. A multi-source dataset 
+      for a study site in the North Sea is created by combining satellite data, local 
+      in situ data and a hydrodynamic model. The machine learning algorithm DTWkNN, 
+      which is based on dynamic time warping and k-nearest neighbor, is used for 
+      multivariate time series data imputation. Subsequently, unsupervised anomaly 
+      detection is performed to identify possible inferences in the dynamic and 
+      interdepending marine environment around the offshore wind farm. The anomaly 
+      results are analyzed in terms of location, density and temporal variability, 
+      granting access to information and building a basis for explanation. Temporal 
+      detection of anomalies with COPOD is found to be a suitable method. Actionable 
+      insights are the direction and magnitude of potential effects of the wind farm on 
+      the marine environment, depending on the wind direction. This study works towards 
+      a digital twin of offshore wind farms and provides a set of methods based on 
+      machine learning to monitor and evaluate offshore wind farm effects, supporting 
+      stakeholders with information for decision making on future maritime energy 
+      infrastructures.
+FAU - Schneider, Janina
+AU  - Schneider J
+AUID- ORCID: 0000-0001-7477-7662
+AD  - Research Department Marine Perception, German Research Center for Artificial 
+      Intelligence, Marie-Curie-Straße 1, 26129 Oldenburg, Germany.
+AD  - Institute for Chemistry and Biology of the Marine Environment, Carl von Ossietzky 
+      University of Oldenburg, Schleusenstraße 1, 26382 Wilhelmshaven, Germany.
+FAU - Klüner, André
+AU  - Klüner A
+AUID- ORCID: 0000-0003-1027-1763
+AD  - Research Department Marine Perception, German Research Center for Artificial 
+      Intelligence, Marie-Curie-Straße 1, 26129 Oldenburg, Germany.
+FAU - Zielinski, Oliver
+AU  - Zielinski O
+AUID- ORCID: 0000-0002-6018-5030
+AD  - Research Department Marine Perception, German Research Center for Artificial 
+      Intelligence, Marie-Curie-Straße 1, 26129 Oldenburg, Germany.
+AD  - Institute for Chemistry and Biology of the Marine Environment, Carl von Ossietzky 
+      University of Oldenburg, Schleusenstraße 1, 26382 Wilhelmshaven, Germany.
+AD  - Leibniz Institute for Baltic Sea Research Warnemünde, Seestraße 15, 18119 
+      Rostock, Germany.
+LA  - eng
+GR  - AI4DTE/European Space Agency/
+GR  - ZN3480/Ministry for Science and Culture, Lower Saxony, Germany (Niedersächsisches 
+      Vorab)/
+PT  - Journal Article
+DEP - 20230509
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+PMC - PMC10220890
+OTO - NOTNLM
+OT  - North Sea
+OT  - SDG
+OT  - anomaly detection
+OT  - artificial intelligence
+OT  - earth observation
+OT  - green energy
+OT  - marine ecosystem
+OT  - missing value imputation
+OT  - remote sensing
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2023/07/11 06:42
+MHDA- 2023/07/11 06:43
+PMCR- 2023/05/09
+CRDT- 2023/07/11 01:01
+PHST- 2023/03/14 00:00 [received]
+PHST- 2023/04/28 00:00 [revised]
+PHST- 2023/05/06 00:00 [accepted]
+PHST- 2023/07/11 06:43 [medline]
+PHST- 2023/07/11 06:42 [pubmed]
+PHST- 2023/07/11 01:01 [entrez]
+PHST- 2023/05/09 00:00 [pmc-release]
+AID - s23104581 [pii]
+AID - sensors-23-04581 [pii]
+AID - 10.3390/s23104581 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2023 May 9;23(10):4581. doi: 10.3390/s23104581.
+
+PMID- 37085850
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230425
+LR  - 20230425
+IS  - 1471-2377 (Electronic)
+IS  - 1471-2377 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2023 Apr 22
+TI  - Developing DELPHI expert consensus rules for a digital twin model of acute stroke 
+      care in the neuro critical care unit.
+PG  - 161
+LID - 10.1186/s12883-023-03192-9 [doi]
+LID - 161
+AB  - INTRODUCTION: Digital twins, a form of artificial intelligence, are virtual 
+      representations of the physical world. In the past 20 years, digital twins have 
+      been utilized to track wind turbines' operations, monitor spacecraft's status, 
+      and even create a model of the Earth for climate research. While digital twins 
+      hold much promise for the neurocritical care unit, the question remains on how to 
+      best establish the rules that govern these models. This model will expand on our 
+      group's existing digital twin model for the treatment of sepsis. METHODS: The 
+      authors of this project collaborated to create a Direct Acyclic Graph (DAG) and 
+      an initial series of 20 DELPHI statements, each with six accompanying 
+      sub-statements that captured the pathophysiology surrounding the management of 
+      acute ischemic strokes in the practice of Neurocritical Care (NCC). Agreement 
+      from a panel of 18 experts in the field of NCC was collected through a 7-point 
+      Likert scale with consensus defined a-priori by ≥ 80% selection of a 6 ("agree") 
+      or 7 ("strongly agree"). The endpoint of the study was defined as the completion 
+      of three separate rounds of DELPHI consensus. DELPHI statements that had met 
+      consensus would not be included in subsequent rounds of DELPHI consensus. The 
+      authors refined DELPHI statements that did not reach consensus with the guidance 
+      of de-identified expert comments for subsequent rounds of DELPHI. All DELPHI 
+      statements that reached consensus by the end of three rounds of DELPHI consensus 
+      would go on to be used to inform the construction of the digital twin model. 
+      RESULTS: After the completion of three rounds of DELPHI, 93 (77.5%) statements 
+      reached consensus, 11 (9.2%) statements were excluded, and 16 (13.3%) statements 
+      did not reach a consensus of the original 120 DELPHI statements. CONCLUSION: This 
+      descriptive study demonstrates the use of the DELPHI process to generate 
+      consensus among experts and establish a set of rules for the development of a 
+      digital twin model for use in the neurologic ICU. Compared to associative models 
+      of AI, which develop rules based on finding associations in datasets, digital 
+      twin AI created by the DELPHI process are easily interpretable models based on a 
+      current understanding of underlying physiology.
+CI  - © 2023. The Author(s).
+FAU - Dang, Johnny
+AU  - Dang J
+AD  - Department of Neurology, Cleveland Clinic, Cleveland, USA.
+FAU - Lal, Amos
+AU  - Lal A
+AUID- ORCID: 0000-0002-0021-2033
+AD  - Division of Pulmonary and Critical Care Medicine, Mayo Clinic, Rochester, USA. 
+      Lal.Amos@mayo.edu.
+FAU - Montgomery, Amy
+AU  - Montgomery A
+AD  - Department of Medicine, Mayo Clinic, Rochester, USA.
+FAU - Flurin, Laure
+AU  - Flurin L
+AD  - Infectious Diseases Research Laboratory, Mayo Clinic, Rochester, USA.
+AD  - Department of Critical Care, University Hospital of Guadeloupe, Guadeloupe, 
+      France.
+FAU - Litell, John
+AU  - Litell J
+AD  - Abbott Northwestern Emergency Critical Care, Minneapolis, USA.
+FAU - Gajic, Ognjen
+AU  - Gajic O
+AD  - Division of Pulmonary and Critical Care Medicine, Mayo Clinic, Rochester, USA.
+FAU - Rabinstein, Alejandro
+AU  - Rabinstein A
+AD  - Department of Neurology, Mayo Clinic, Rochester, USA.
+CN  - Digital Twin Platform for education, research, and healthcare delivery 
+      investigator group
+LA  - eng
+PT  - Journal Article
+DEP - 20230422
+PL  - England
+TA  - BMC Neurol
+JT  - BMC neurology
+JID - 100968555
+SB  - IM
+MH  - Humans
+MH  - Consensus
+MH  - *Artificial Intelligence
+MH  - Delphi Technique
+MH  - Intensive Care Units
+MH  - Critical Care
+MH  - *Stroke/therapy
+PMC - PMC10121414
+OTO - NOTNLM
+OT  - AI
+OT  - Acute Ischemic Stroke
+OT  - DELPHI
+OT  - Digital Twin
+OT  - Expert Consensus
+OT  - Neuro Critical Care
+COIS- The authors declare that they have no competing interests.
+FIR - Cervantes-Arslanian, Anna
+IR  - Cervantes-Arslanian A
+FIR - Marcellino, Chris
+IR  - Marcellino C
+FIR - Robinson, Chris
+IR  - Robinson C
+FIR - Kramer, Christopher L
+IR  - Kramer CL
+FIR - Freeman, David W
+IR  - Freeman DW
+FIR - Hwang, David Y
+IR  - Hwang DY
+FIR - Manno, Edward
+IR  - Manno E
+FIR - Wijdicks, Eelco
+IR  - Wijdicks E
+FIR - Siegel, Jason
+IR  - Siegel J
+FIR - Fugate, Jennifer
+IR  - Fugate J
+FIR - Gomes, Joao A
+IR  - Gomes JA
+FIR - Burns, Joseph
+IR  - Burns J
+FIR - Gobeske, Kevin
+IR  - Gobeske K
+FIR - Hawkes, Maximiliano
+IR  - Hawkes M
+FIR - Couillard, Philippe
+IR  - Couillard P
+FIR - Hocker, Sara
+IR  - Hocker S
+FIR - Datar, Sudhir
+IR  - Datar S
+FIR - Chakraborty, Tia
+IR  - Chakraborty T
+EDAT- 2023/04/22 10:42
+MHDA- 2023/04/25 06:42
+PMCR- 2023/04/22
+CRDT- 2023/04/21 23:37
+PHST- 2023/01/26 00:00 [received]
+PHST- 2023/03/30 00:00 [accepted]
+PHST- 2023/04/25 06:42 [medline]
+PHST- 2023/04/22 10:42 [pubmed]
+PHST- 2023/04/21 23:37 [entrez]
+PHST- 2023/04/22 00:00 [pmc-release]
+AID - 10.1186/s12883-023-03192-9 [pii]
+AID - 3192 [pii]
+AID - 10.1186/s12883-023-03192-9 [doi]
+PST - epublish
+SO  - BMC Neurol. 2023 Apr 22;23(1):161. doi: 10.1186/s12883-023-03192-9.
